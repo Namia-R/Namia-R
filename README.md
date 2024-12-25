@@ -12,5 +12,6 @@
 ![Snake animation](https://github.com/Namia-R/Namia-R/blob/main/assets/nake.svg)
 
 - 你可能看到很多Namia-已注销的，没错那都是我！
+- 此库是备份仓库，需求更多上Namia-R1仓库，如果R1仓库测试失败会转到此库！
 - 
 - [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=flat&logo=Telegram&logoColor=white)](https://t.me/RileyK9880) - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
